@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Máquinas de Movimiento Perpetuo</title>
+</head>
+<body>
+	<header>
+		<h1>Máquinas de Movimiento Perpetuo</h1>
+		<nav>
+			<ul>
+				<li><a href="#definicion">Definición</a></li>
+				<li><a href="#tipos">Tipos</a></li>
+				<li><a href="#historia">Historia</a></li>
+				<li><a href="#criticas">Críticas</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="definicion">
+			<h2>Definición</h2>
+			<p>Una máquina de movimiento perpetuo es un dispositivo hipotético que puede generar energía de manera continua sin necesidad de una fuente externa de energía.</p>
+		</section>
+		<section id="tipos">
+			<h2>Tipos de máquinas de movimiento perpetuo</h2>
+			<ul>
+				<li>Máquinas basadas en la gravedad</li>
+				<li>Máquinas basadas en la fricción</li>
+				<li>Máquinas basadas en el electromagnetismo</li>
+			</ul>
+		</section>
+		<section id="historia">
+			<h2>Historia</h2>
+			<p>La idea de una máquina de movimiento perpetuo ha existido durante siglos, pero ninguna máquina ha demostrado ser capaz de generar energía de manera continua sin la ayuda de una fuente externa de energía.</p>
+		</section>
+		<section id="criticas">
+			<h2>Críticas</h2>
+			<p>La mayoría de los científicos y expertos en energía consideran que una máquina de movimiento perpetuo es imposible de construir debido a la ley de conservación de la energía, que establece que la energía no puede crearse ni destruirse, solo se puede transformar de una forma a otra.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Derechos reservados © 2023</p>
+	</footer>
+</body>
+</html>
